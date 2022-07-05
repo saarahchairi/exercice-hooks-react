@@ -12,4 +12,4 @@ Via des props, envoyer vos données dans le composants "Personnage.js"�
 
 Toujours sur votre fichier App.js, faites un deuxième state avec 5 éléments (objet) au choix dans un tableau.
 
-Créer un deuxième composant du nom de "Article.js" et envoyer le state en props. (Pour afficher chaque élément un par un, utiliser une boucle)
+Créer un deuxième composant du nom de "Article.js" et envoyer le state en props. (Pour afficher chaque élément un par un, utiliser une boucle)# exercice-hooks-react
