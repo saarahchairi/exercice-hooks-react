@@ -8,8 +8,10 @@ Sur votre fichier App.js, faite un state (version hooks) avec vos don
 
 Via des props, envoyer vos données dans le composants "Personnage.js" et afficher-les
 
- faites une fonction "rename" qui va changer toutes vos données du state par ce que vous souhaitez. Récupérer cette fonction dans le composants "Personnage.js" via les props.Partie deux:
+ faites une fonction "rename" qui va changer toutes vos données du state par ce que vous souhaitez. Récupérer cette fonction dans le composants "Personnage.js" via les props.
+ 
+ Partie deux:
 
 Toujours sur votre fichier App.js, faites un deuxième state avec 5 éléments (objet) au choix dans un tableau.
 
-Créer un deuxième composant du nom de "Article.js" et envoyer le state en props. (Pour afficher chaque élément un par un, utiliser une boucle)# exercice-hooks-react
+Créer un deuxième composant du nom de "Article.js" et envoyer le state en props. (Pour afficher chaque élément un par un, utiliser une boucle)
